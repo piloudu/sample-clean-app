@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample-clean-app.iml" filepath="$PROJECT_DIR$/.idea/modules/sample-clean-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/sample-clean-app.android.iml" filepath="$PROJECT_DIR$/.idea/modules/android/sample-clean-app.android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/sample-clean-app.android.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/android/sample-clean-app.android.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/sample-clean-app.android.main.iml" filepath="$PROJECT_DIR$/.idea/modules/android/sample-clean-app.android.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/sample-clean-app.android.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/android/sample-clean-app.android.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/sample-clean-app.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/sample-clean-app.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/sample-clean-app.common.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/common/sample-clean-app.common.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/sample-clean-app.common.commonMain.iml" filepath="$PROJECT_DIR$/.idea/modules/common/sample-clean-app.common.commonMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/sample-clean-app.common.commonTest.iml" filepath="$PROJECT_DIR$/.idea/modules/common/sample-clean-app.common.commonTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/sample-clean-app.common.desktopMain.iml" filepath="$PROJECT_DIR$/.idea/modules/common/sample-clean-app.common.desktopMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/sample-clean-app.common.desktopTest.iml" filepath="$PROJECT_DIR$/.idea/modules/common/sample-clean-app.common.desktopTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/sample-clean-app.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/sample-clean-app.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/sample-clean-app.common.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/common/sample-clean-app.common.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/sample-clean-app.desktop.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/sample-clean-app.desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/sample-clean-app.desktop.commonMain.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/sample-clean-app.desktop.commonMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/sample-clean-app.desktop.commonTest.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/sample-clean-app.desktop.commonTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/sample-clean-app.desktop.jvmMain.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/sample-clean-app.desktop.jvmMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/sample-clean-app.desktop.jvmTest.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/sample-clean-app.desktop.jvmTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/sample-clean-app.desktop.main.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/sample-clean-app.desktop.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/sample-clean-app.desktop.test.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/sample-clean-app.desktop.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/di/sample-clean-app.di.iml" filepath="$PROJECT_DIR$/.idea/modules/di/sample-clean-app.di.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/di/sample-clean-app.di.main.iml" filepath="$PROJECT_DIR$/.idea/modules/di/sample-clean-app.di.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/di/sample-clean-app.di.test.iml" filepath="$PROJECT_DIR$/.idea/modules/di/sample-clean-app.di.test.iml" />
+    </modules>
+  </component>
+</project>
