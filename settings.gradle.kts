@@ -17,4 +17,7 @@ pluginManagement {
 
 rootProject.name = "sample-clean-app"
 
-include(":android", ":desktop", ":common")
+include(":android")
+include(":desktop")
+include(":common")
+include(":di")
