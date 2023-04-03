@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="089bdfd2-b776-47a3-ad71-d7e4bb48a306" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/di/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/di/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/di/src/main/kotlin/modules/mainModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/di/src/main/kotlin/modules/MainModule.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +16,13 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,7 +38,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Test__Kotlin__23__reified__parameters__issue",
     "last_opened_file_path": "/Users/xoangonzaleziglesias/Desktop/my_git_repos/projects/sample-clean-app",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.17",
